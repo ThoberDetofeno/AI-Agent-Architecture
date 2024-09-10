@@ -7,11 +7,22 @@ Throughout this article, we will explore the typical AI agent process, highlight
 
 ---
 
+It might be helpful to define terms commonly used to refer to generative AI use cases in the market.
 
-Proposal of an architecture to implement Intelligent Agents.
-Using techniques like Retrieval Augmented Generation (RAG)
-Use LLMs to generate both reasoning traces and task-specific actions in an interleaved manner. 
-Typical AI Agent Process, Best Practices for Each Module, and Comprehensive Evaluation
+**AI agents** are designed to perform specific tasks, answer questions, and automate processes for users. These agents vary widely in complexity. They range from simple chatbots, to copilots, to advanced AI assistants in the form of digital or robotic systems that can run complex workflows autonomously.
+
+**Copilots** are a type of AI agent. They work alongside users rather than operating independently. Unlike fully automated agents, copilots provide suggestions and recommendations to assist users in completing tasks.
+
+**Agent architecture** defines the organizational structure and interaction of components within software agents or intelligent control systems, commonly referred to as cognitive architectures in intelligent agents. 
+
+[See more here](https://arxiv.org/html/2404.11584v1)
+
+---
+
+
+
+
+
 
 
 What is an Agent?
@@ -22,7 +33,7 @@ What is an AI Agent?
 
 
 What is agent architecture?
-https://klu.ai/glossary/agent-architecture
+
 
 
 Core Components of Agentic AI Architectures
