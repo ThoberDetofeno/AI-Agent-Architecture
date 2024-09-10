@@ -23,3 +23,5 @@ More information [HERE](https://arxiv.org/html/2404.11584v1)
 
 ---
 
+
+<img src="images/AI-Agent-Architecture.png" alt="drawing" width="1200"/>
