@@ -17,30 +17,9 @@ It might be helpful to define terms commonly used to refer to generative AI use 
 
 AI Agent are composed of several interconnected components that work together to enable intelligent behaviour. Each component plays a crucial role in the overall functioning of the AI system, and they must interact seamlessly to achieve desired outcomes. The image below show each **Core Components of AI Agent**.
 
+<img src="images/AI-Agent-Core-Components.png" alt="drawing" width="700"/>
 
-
-
-[See more here](https://arxiv.org/html/2404.11584v1)
+More information [HERE](https://arxiv.org/html/2404.11584v1)
 
 ---
 
-
-
-
-
-
-
-What is an Agent?
-https://learn.microsoft.com/en-us/azure/cosmos-db/ai-agents
-https://www.insightpartners.com/ideas/ai-agents-disrupting-automation/
-
-What is an AI Agent?
-
-
-What is agent architecture?
-
-
-
-Core Components of Agentic AI Architectures
-
-https://markovate.com/blog/agentic-ai-architecture/
