@@ -60,4 +60,11 @@ For more information:
 **Code example**: Come soon 
 
 
-### Query Classification and Refinement
+### Query Classification
+
+This is the first layer of defense against inappropriate or out-of-scope queries. It analyzes the incoming user questions and determines whether they fall within the predefined scope of acceptable queries. This classifier is trained on a dataset of expected questions and the types of questions to avoid, effectively acting as a gatekeeper.
+
+
+- https://medium.com/ai-advances/advanced-rag-11-query-classification-and-refinement-2aec79f4140b
+- https://docs.haystack.deepset.ai/v1.25/docs/query_classifier
+
