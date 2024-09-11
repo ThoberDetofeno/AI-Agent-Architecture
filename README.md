@@ -38,13 +38,23 @@ As shown in **Figure 2**, the proposed architecture for building a LLM-based Age
 
 This approach is designed for a user who has multiple conversations and can interact with various AI agents. Depending on the user's question, the system selects the most suitable AI agent to provide an appropriate response.
 
-### Chat
+### Chat & Conversational
 
-Conversational agents in LangChain facilitate interactive and dynamic conversations with users.
-Conversation agents are optimized for conversation. Other agents are often optimized for using tools to figure out the best response, which could be better in a conversational setting where you may want the agent to be able to chat with the user as well.
-Conversational agents can engage in back-and-forth conversations, remember previous interactions, and make contextually informed decisions.
+Conversational agents facilitate interactive and dynamic conversations with users.
+
+Conversation agents are optimized for conversation. They can engage in back-and-forth conversations, remember previous interactions, and make contextually informed decisions.
+
+Conversational agents can be offer distinct features and functionalities that make them unique and tailored for interactive and dynamic conversations with users.
+
+They’re different from other agents in a few ways:
+
+1) Focus on Conversation: Conversational agents are designed to facilitate interactive and dynamic conversations with users. They are optimized for conversation and can engage in back-and-forth interactions, remember previous interactions, and make contextually informed decisions.
+2) Multi-turn Interactions: Conversational agents excel in handling multi-turn conversations, where users can ask follow-up questions or provide additional information. They can maintain the context of the conversation and provide coherent and meaningful responses based on the entire conversation history.
+3) Dynamic Decision-making: Conversational agents can make dynamic decisions based on the current conversation context and available information. They can retrieve and integrate real-time data from external systems through APIs, enabling them to provide up-to-date and accurate responses.
 
 For more information:
 - https://www.comet.com/site/blog/conversational-agents-in-langchain/
 - https://js.langchain.com/v0.1/docs/modules/agents/agent_types/chat_conversation_agent/
 - https://medium.com/@atulkumar_68871/incorporating-chat-history-in-conversational-agents-using-langchain-9045b85edb78
+
+**Code example**: Come soon 
