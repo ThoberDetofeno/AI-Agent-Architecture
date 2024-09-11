@@ -58,3 +58,6 @@ For more information:
 - https://medium.com/@atulkumar_68871/incorporating-chat-history-in-conversational-agents-using-langchain-9045b85edb78
 
 **Code example**: Come soon 
+
+
+### Query Classification and Refinement
