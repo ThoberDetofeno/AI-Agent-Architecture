@@ -71,6 +71,12 @@ The each new Query, the router will take that information, combine it with its e
 - https://medium.com/ai-advances/advanced-rag-11-query-classification-and-refinement-2aec79f4140b
 - https://docs.haystack.deepset.ai/v1.25/docs/query_classifier
 
+### Embbeding
+
+What is the best Embedding Model?
+- https://huggingface.co/spaces/mteb/leaderboard
+- https://arxiv.org/abs/2210.07316
+
 
 ### Chunking
 
