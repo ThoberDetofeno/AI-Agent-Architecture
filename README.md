@@ -82,3 +82,12 @@ What is the best Embedding Model?
 
 - https://pub.towardsai.net/revisiting-chunking-in-the-rag-pipeline-9aab8b1fdbe7
 - https://kshitijkutumbe.medium.com/comprehensive-guide-to-chunking-in-llm-and-rag-systems-c579a11ce6e2
+
+### Vectorize & Indexing
+Vector indexing is not just about storing data, it’s about intelligently organizing the vector embeddings to optimize the retrieval process. This technique involves advanced algorithms to neatly arrange the high-dimensional vectors in a searchable and efficient manner. 
+
+- https://medium.com/@myscale/understanding-vector-indexing-a-comprehensive-guide-d1abe36ccd3c
+- https://tembo.io/blog/vector-indexes-in-pgvector
+- https://medium.com/@mauricio/optimizing-ivfflat-indexing-with-pgvector-in-postgresql-755d142e54f5
+
+### Data Privacy
