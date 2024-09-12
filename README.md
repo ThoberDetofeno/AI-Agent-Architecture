@@ -64,6 +64,7 @@ For more information:
 
 This is the first layer of defense against inappropriate or out-of-scope queries. It analyzes the incoming user questions and determines whether they fall within the predefined scope of acceptable queries. This classifier is trained on a dataset of expected questions and the types of questions to avoid, effectively acting as a gatekeeper.
 
+Query Classifier routes your queries to the Agent that are best suited to handling them. You can use it to classify keyword-based queries and questions to achieve better search results. 
 
 - https://medium.com/ai-advances/advanced-rag-11-query-classification-and-refinement-2aec79f4140b
 - https://docs.haystack.deepset.ai/v1.25/docs/query_classifier
