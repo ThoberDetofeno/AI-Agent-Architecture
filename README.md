@@ -71,3 +71,8 @@ The each new Query, the router will take that information, combine it with its e
 - https://medium.com/ai-advances/advanced-rag-11-query-classification-and-refinement-2aec79f4140b
 - https://docs.haystack.deepset.ai/v1.25/docs/query_classifier
 
+
+### Chunking
+
+- https://pub.towardsai.net/revisiting-chunking-in-the-rag-pipeline-9aab8b1fdbe7
+- https://kshitijkutumbe.medium.com/comprehensive-guide-to-chunking-in-llm-and-rag-systems-c579a11ce6e2
