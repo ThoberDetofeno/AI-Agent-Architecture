@@ -66,6 +66,8 @@ This is the first layer of defense against inappropriate or out-of-scope queries
 
 Query Classifier routes your queries to the Agent that are best suited to handling them. You can use it to classify keyword-based queries and questions to achieve better search results. 
 
+The each new Query, the router will take that information, combine it with its existing knowledge of the possible next steps, and choose most able Agent to response.
+
 - https://medium.com/ai-advances/advanced-rag-11-query-classification-and-refinement-2aec79f4140b
 - https://docs.haystack.deepset.ai/v1.25/docs/query_classifier
 
