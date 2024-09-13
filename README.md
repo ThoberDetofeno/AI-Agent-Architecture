@@ -92,7 +92,12 @@ Vector indexing is not just about storing data, it’s about intelligently organ
 
 ### Data Privacy
 
-## Reranker
+### Reranker
 
 - https://cohere.com/blog/rerank
 - https://pub.towardsai.net/advanced-rag-04-re-ranking-85f6ae8170b1
+
+### Memory
+
+https://superagi.com/towards-agi-part-1/
+https://dev.to/datalynx/memory-in-llm-agents-121
