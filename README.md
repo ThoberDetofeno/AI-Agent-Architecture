@@ -91,3 +91,8 @@ Vector indexing is not just about storing data, it’s about intelligently organ
 - https://medium.com/@mauricio/optimizing-ivfflat-indexing-with-pgvector-in-postgresql-755d142e54f5
 
 ### Data Privacy
+
+## Reranker
+
+- https://cohere.com/blog/rerank
+- https://pub.towardsai.net/advanced-rag-04-re-ranking-85f6ae8170b1
