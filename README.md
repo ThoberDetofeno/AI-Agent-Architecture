@@ -15,11 +15,7 @@ It might be helpful to define terms commonly used to refer to generative AI use 
 
 **Agent architecture** defines the organizational structure and interaction of components within software agents or intelligent control systems, commonly referred to as cognitive architectures in intelligent agents. 
 
-AI Agent are composed of several interconnected components that work together to enable intelligent behaviour. Each component plays a crucial role in the overall functioning of the AI system, and they must interact seamlessly to achieve desired outcomes. The image below show each **Core Components of AI Agent**.
-
-<img src="images/AI-Agent-Core-Components.png" alt="drawing" width="500"/>
-<div align="center"> Figure 1: Core Components of AI Agents.</div>
-<br> </br>
+AI Agent are composed of several interconnected components that work together to enable intelligent behaviour. Each component plays a crucial role in the overall functioning of the AI system, and they must interact seamlessly to achieve desired outcomes. 
 
 **LLM-based agents** are software systems that string together multiple processing steps, including calls to LLMs, in order to achieve a desired end result. Agents typically have some amount of conditional logic or decision-making capabilities, as well as a working memory they can access between steps.
 
@@ -29,12 +25,11 @@ For more information:
 
 ---
 
-
 <img src="images/AI-Agent-Architecture.png" alt="drawing" width="1200"/>
-<div align="center"> Figure 2: An Architecture for AI Agent.</div>
+<div align="center"> Figure 1: An Architecture for AI Agent.</div>
 <br> </br>
 
-As shown in **Figure 2**, the proposed architecture for building a LLM-based Agent consists of several components, ach of which can utilize different techniques.
+As shown in **Figure 1**, the proposed architecture for building a LLM-based Agent consists of several components, ach of which can utilize different techniques.
 
 This approach is designed for a user who has multiple conversations and can interact with various AI agents. Depending on the user's question, the system selects the most suitable AI agent to provide an appropriate response.
 
@@ -57,8 +52,6 @@ For more information:
 - https://js.langchain.com/v0.1/docs/modules/agents/agent_types/chat_conversation_agent/
 - https://medium.com/@atulkumar_68871/incorporating-chat-history-in-conversational-agents-using-langchain-9045b85edb78
 
-**Code example**: Come soon 
-
 
 ### Query Classification
 
@@ -68,8 +61,12 @@ Query Classifier routes your queries to the Agent that are best suited to handli
 
 The each new Query, the router will take that information, combine it with its existing knowledge of the possible next steps, and choose most able Agent to response.
 
+For more information:
 - https://medium.com/ai-advances/advanced-rag-11-query-classification-and-refinement-2aec79f4140b
 - https://docs.haystack.deepset.ai/v1.25/docs/query_classifier
+
+### AI Agent
+
 
 ### Embbeding
 
@@ -78,27 +75,45 @@ What is the best Embedding Model?
 - https://arxiv.org/abs/2210.07316
 
 
+### Vector Database
+
+
 ### Chunking
 
+For more information:
 - https://pub.towardsai.net/revisiting-chunking-in-the-rag-pipeline-9aab8b1fdbe7
 - https://kshitijkutumbe.medium.com/comprehensive-guide-to-chunking-in-llm-and-rag-systems-c579a11ce6e2
 
 ### Vectorize & Indexing
 Vector indexing is not just about storing data, it’s about intelligently organizing the vector embeddings to optimize the retrieval process. This technique involves advanced algorithms to neatly arrange the high-dimensional vectors in a searchable and efficient manner. 
 
+For more information:
 - https://medium.com/@myscale/understanding-vector-indexing-a-comprehensive-guide-d1abe36ccd3c
 - https://tembo.io/blog/vector-indexes-in-pgvector
 - https://medium.com/@mauricio/optimizing-ivfflat-indexing-with-pgvector-in-postgresql-755d142e54f5
 
 ### Data Privacy
 
+### Context
+
+
 ### Reranker
 
 - https://cohere.com/blog/rerank
 - https://pub.towardsai.net/advanced-rag-04-re-ranking-85f6ae8170b1
+
+### Actions Tools
+
 
 ### Memory
 
 https://superagi.com/towards-agi-part-1/
 https://dev.to/datalynx/memory-in-llm-agents-121
 https://activantcapital.com/research/ai-agents
+
+### Prompt
+
+### AI / LLM
+
+### Pos-Processing & Answer
+
